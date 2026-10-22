@@ -1,0 +1,13 @@
+# Agent runtime local state — never commit
+settings.json
+.claude.json
+history.jsonl
+debug.log
+.last-cleanup
+ide/
+backups/
+cache/
+projects/
+plugins/
+*.lock
+.env
